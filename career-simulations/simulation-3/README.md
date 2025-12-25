@@ -1,18 +1,35 @@
-# Simulation 3 – Incident Response & Investigation
+# Career Simulation 3 – Incident Investigation & Mitigation
+
 ## Overview
-This simulation focused on responding to a simulated security incident by identifying indicators of compromise, analyzing system and network data, and documenting findings clearly for stakeholders.
-## Focus Areas
-- Incident identification and triage
-- Log analysis and evidence review
-- Impact assessment and remediation planning
-- Clear technical documentation for non-technical audiences
-## Tools & Frameworks
-- SIEM analysis (Splunk)
-- Linux command-line investigation
-- NIST Incident Response lifecycle concepts
-## Key Actions
-- Reviewed logs and system artifacts to identify suspicious activity
-- Assessed scope and potential impact of the incident
-- Documented findings, risks, and mitigation recommendations
-## Outcome
-Demonstrated the ability to perform structured incident response under pressure, communicate findings clearly, and align actions with established cybersecurity frameworks
+This simulation focused on identifying security weaknesses, validating access paths, and documenting remediation strategies in a simulated enterprise environment.
+
+## Objectives
+- Identify exposed services and insecure configurations
+- Validate findings using command-line and network tools
+- Assess risk and potential impact
+- Propose realistic mitigation strategies
+
+## Tools & Techniques
+- Nmap (service and port discovery)
+- Linux command-line analysis
+- SSH access validation
+- Permission and configuration review
+
+## Key Findings
+- Misconfigured services exposing unnecessary access
+- Weak access controls increasing attack surface
+- Insufficient monitoring and logging controls
+
+## Mitigation & Recommendations
+- Restrict exposed services to required ports only
+- Harden SSH access and authentication methods
+- Apply principle of least privilege
+- Improve logging and monitoring for detection
+
+## Skills Demonstrated
+- Incident analysis under pressure
+- Evidence-based documentation
+- Security hardening recommendations
+- Clear communication for technical and non-technical audiences
+
+⚠️ **Note:** All findings are sanitized. No credentials, flags, or sensitive data are included.
