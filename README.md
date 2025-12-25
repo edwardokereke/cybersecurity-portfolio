@@ -5,6 +5,8 @@ Cybersecurity analyst with a background in physical therapy education and athlet
 This repository contains hands-on cybersecurity labs, career simulations, and incident response exercises completed during my Fullstack Academy Cybersecurity Bootcamp.
 ## Certifications
 - CompTIA Security+ (CE)
+- ## Featured Work
+- [Simulation 3 – Incident Response & Investigation](career-simulations/simulation-3/README.md)
 ## Core Skills
 - Security Operations (SOC)
 - Incident Response
