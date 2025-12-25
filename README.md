@@ -6,7 +6,13 @@ This repository contains hands-on cybersecurity labs, career simulations, and in
 ## Certifications
 - CompTIA Security+ (CE)
 - ## Featured Work
-[simulation-3](https://github.com/edwardokereke/cybersecurity-portfolio/tree/main/career-simulations/simulation-3)
+## 🔗 Featured Work
+- **[Simulation 1 – System Enumeration & Initial Findings](career-simulations/simulation-1)**  
+  Hands-on system analysis focusing on discovery, enumeration, and documentation of security-relevant findings.
+- **[Simulation 2 – Network & Log Analysis](career-simulations/simulation-2)**  
+  Network traffic review and log analysis to identify suspicious activity and assess security posture.
+- **[Simulation 3 – Incident Response & Mitigation](career-simulations/simulation-3)**  
+  End-to-end incident response workflow including identification, impact assessment, and remediation planning.
 ## Core Skills
 - Security Operations (SOC)
 - Incident Response
