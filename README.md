@@ -6,7 +6,7 @@ This repository contains hands-on cybersecurity labs, career simulations, and in
 ## Certifications
 - CompTIA Security+ (CE)
 - ## Featured Work
-simulation-3
+[simulation-3](https://github.com/edwardokereke/cybersecurity-portfolio/tree/main/career-simulations/simulation-3)
 ## Core Skills
 - Security Operations (SOC)
 - Incident Response
